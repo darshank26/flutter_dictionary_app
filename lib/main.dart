@@ -33,7 +33,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
 
   String url ="https://owlbot.info/api/v4/dictionary/";
-  String token = "ae49ded4b24d5d47f9f9bab18bee6ecc3d2eee8f";
+  String token = "your api key over here";
   StreamController _streamController;
   Stream _stream;
   TextEditingController _controller = TextEditingController();
